@@ -1,4 +1,4 @@
--- =============================--- =============================--- Basic Settings
+-- =============================---=============================--- Basic Settings
 vim.opt.relativenumber = true
 vim.opt.number = true
 vim.opt.autoindent = true
